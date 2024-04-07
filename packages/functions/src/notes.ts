@@ -1,5 +1,5 @@
 import { ApiHandler } from "sst/node/api";
-import { Notes } from "@serverless-geo/core/notes";
+import { Notes } from "@serverless-geo/core/src/notes";
 
 export const create = ApiHandler(async (_evt) => {
   await Notes.create();

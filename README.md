@@ -1,2 +1,3 @@
 # serverless-geo
-Simple map application for a blog about serverless for geo data
+
+Simple map application for a blog post about serverless for geo data
